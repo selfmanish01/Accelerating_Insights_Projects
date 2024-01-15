@@ -25,7 +25,7 @@ The provided Python script serves the following purposes:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/Accelerating_Insights_Projects.git
+   git clone https://github.com/selfmanish01/Accelerating_Insights_Projects.git
    cd Accelerating_Insights_Projects
    ```
 
